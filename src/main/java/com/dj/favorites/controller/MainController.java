@@ -1,4 +1,4 @@
-package favorites.controller;
+package com.dj.favorites.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.web.WebView;
